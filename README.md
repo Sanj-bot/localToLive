@@ -28,3 +28,4 @@
 
 - ### Insights:
     - reverse proxy: server that acts as mediator b/w client and web-server
+    - skip the warning page using scripts.
